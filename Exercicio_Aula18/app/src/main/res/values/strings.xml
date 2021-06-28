@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aula18</string>
+    <string name="screen1">Ainda\nem\nconstrução</string>
+    <string name="layout">teste</string>
+    <string name="second_toast">Ainda está em construção</string>
+    <string name="first_1">Nome: Sandy, Idade: 21</string>
+    <string name="first_2">Nome: Joana, Idade: 23</string>
+</resources>
